@@ -31,6 +31,7 @@ BUILD		:=	build
 SOURCES		:=	source
 DATA		:=	data
 INCLUDES	:=	include
+ROMFS		:=	data
 
 NO_SMDH		:=	nupe
 
